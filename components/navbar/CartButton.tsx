@@ -3,7 +3,7 @@ import Link from "next/link";
 
 function CartButton() {
   // temp
-  const numItemsInCart = 9;
+  const numItemsInCart = 10;
 
   return (
     <Link
